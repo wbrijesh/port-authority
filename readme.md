@@ -1,3 +1,5 @@
+### NOTE: This repo is no longer maintained
+
 # Port Authority
 
 To solve the issue of application startup scripts without accidentally running multiple servers
